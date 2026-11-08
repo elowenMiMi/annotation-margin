@@ -1,0 +1,10 @@
+{
+  "id": "annotation-margin",
+  "name": "批注边栏",
+  "version": "1.4.1",
+  "minAppVersion": "1.5.0",
+  "description": "划选段落/句子/词语即可添加批注；批注在右侧边栏汇总，悬停浮窗预览、点击定位，边栏可收起。支持导出 Markdown / 公众号 HTML / PDF。",
+  "author": "elowen（咪咪）",
+  "isDesktopOnly": false,
+  "authorUrl": "https://github.com/elowen"
+}
