@@ -3,7 +3,7 @@
   "name": "Annotation Margin",
   "version": "1.4.2",
   "minAppVersion": "1.5.0",
-  "description": "划选段落/句子/词语即可添加批注；批注在右侧边栏汇总，悬停浮窗预览、点击定位，边栏可收起。支持导出 Markdown / 公众号 HTML / PDF。",
+  "description": "Add notes to any selected text, collect them in a sidebar, and preview them on hover. Export annotations as Markdown, WeChat article HTML, or PDF.",
   "author": "elowen（咪咪）",
   "isDesktopOnly": false,
   "authorUrl": "https://github.com/elowenMiMi"
